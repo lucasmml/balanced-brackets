@@ -9,7 +9,8 @@ Aqui seguem as configurações para execução local do projeto.
 ## Deployment
 
 Teste local:
-E acesse a url C:/Users/<USERNAME>/git/balanced-brackets/index.html
+
+Acesse a url C:/Users/<USERNAME>/git/balanced-brackets/index.html
 
 ## Authors
 
